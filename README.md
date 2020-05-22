@@ -4,4 +4,4 @@ The main objective of our project is to develop a lighter-than-air, autonomous d
 
 
 ![Image of bottom view of the final system ](https://github.com/junghsien1024/LTA_robot_swarm_final/blob/master/IMG_3572.JPG)
-![Image of the final system ](https://github.com/junghsien1024/LTA_robot_swarm_final/blob/master/finalsystem.pdf)
+![Image of the final system ](https://github.com/junghsien1024/LTA_robot_swarm_final/blob/master/finalsystem.png)
